@@ -1,7 +1,7 @@
 Hi 👋 My name is Peerawut Nipakornpan
 =====================================
 
-Third-year Software Engineering student at Mae Fah Luang University, passionate about building practical and innovative software solutions.
+Fourth-year Software Engineering student at Mae Fah Luang University, passionate about building practical and innovative software solutions.
 
 * 🌍  I'm based in Bangkok, Thailand
 
