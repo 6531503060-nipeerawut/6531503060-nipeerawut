@@ -16,6 +16,6 @@ Fourth-year Software Engineering student at Mae Fah Luang University, passionate
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/6531503060-nipeerawut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/6531503060-nipeerawut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/6531503060-nipeerawut"><img src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="6531503060-nipeerawut's GitHub stats" /></a>
