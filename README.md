@@ -16,8 +16,11 @@
   <tr>
     <td valign="top" width="33%" align="center" style="border-right: 1px solid #ddd;">
       <h3 style="margin-bottom: 16px; color: #0078d7;">Language & Programming</h3>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
       </a>
       <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go" style="margin-left: 12px;">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="48" height="48" alt="Go" />
@@ -27,6 +30,9 @@
       </a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python" style="margin-left: 12px;">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
+      </a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
       </a>
     </td>
     <td valign="top" width="33%" align="center" style="border-right: 1px solid #ddd;">
