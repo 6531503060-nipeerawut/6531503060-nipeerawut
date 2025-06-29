@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Peerawut Nipakornpan</h1>
+<h3 align="center">Hi 👋, I'm Peerawut Nipakornpan</h3>
 <p align="center">
   <em>Fourth-year Software Engineering student at Mae Fah Luang University,<br/>
-  passionate about building practical and innovative software solutions.</em>
+    passionate about building practical and innovative software solutions.</em>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<h3 align="center">🚀 Tech Stack & Tools</h3>
 
 <table align="center" width="100%" cellpadding="10" cellspacing="0" style="max-width: 900px; font-family: Arial, sans-serif; color: #222;">
   <tr>
@@ -97,7 +97,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/6531503060-nipeerawut" target="_blank" rel="noreferrer">
