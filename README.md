@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🌍 Location:</strong> Bangkok, Thailand
+  <strong>🌍 I'm based in Bangkok, Thailand</strong>
 </p>
 
 ---
