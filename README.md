@@ -25,15 +25,6 @@
       <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go" style="margin-left: 12px;">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="48" height="48" alt="Go" />
       </a>
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" />
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
-      </a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
-      </a>
     </td>
     <td valign="top" width="33%" align="center" style="border-right: 1px solid #ddd;">
       <h3 style="margin-bottom: 16px; color: #e535ab;">Frontend</h3>
@@ -57,9 +48,6 @@
       </a>
       <a href="https://elysiajs.com/" target="_blank" rel="noreferrer" title="Elysia">
         <img src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg" width="48" height="48" alt="Elysia" />
-      </a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring Boot" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="48" height="48" alt="Spring Boot" />
       </a>
     </td>
   </tr>
