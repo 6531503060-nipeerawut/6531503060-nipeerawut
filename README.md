@@ -1,7 +1,7 @@
 <!-- 🌌 OFF PORTFOLIO README - BLUE THEME -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Off+%7C+Software+Engineering;Backend+Developer;Dream+Builder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=I'm+Peerawut+Nipakornpan;Off+%7C+Software+Engineering;Backend+Developer;Dream+Builder" alt="Typing Animation" />
 </h1>
 
 <p align="center">
