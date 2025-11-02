@@ -75,7 +75,7 @@
 
 ---
 
-<h2 align="center">💫 Quote</h2>
+<h2 align="center">💫 Fun Fact</h2>
 
 <p align="center" style="font-size:1.15em; color:#93C5FD;">
   <em>"Build things that matter, and write code that lasts."</em><br/><br/>
