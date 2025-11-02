@@ -1,106 +1,103 @@
-<h3 align="center">Hi 👋, I'm Peerawut Nipakornpan</h3>
+<!-- 🌌 OFF PORTFOLIO README - BLUE THEME -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Off+%7C+Software+Engineering;Backend+Developer;Dream+Builder" alt="Typing Animation" />
+</h1>
+
 <p align="center">
-  <em>Fourth-year Software Engineering student at Mae Fah Luang University,<br/>
-    passionate about building practical and innovative software solutions.</em>
+  <em>🎓 Fourth-year <strong>Software Engineering</strong> student at <strong>Mae Fah Luang University</strong><br/>
+  Passionate about creating <strong>impactful</strong> and <strong>innovative</strong> software solutions.</em>
 </p>
 
 <p align="center">
-  <strong>🌍 I'm based in Bangkok, Thailand</strong>
+  <img src="https://img.shields.io/badge/🌏_Bangkok-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_MFU_Software_Engineering-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Fueled-334155?style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Tech Stack & Tools</h3>
+<h2 align="center">
+  🚀 <span style="background: linear-gradient(90deg, #3B82F6, #2563EB); -webkit-background-clip: text; color: transparent;">Tech Stack & Tools</span>
+</h2>
 
-<table align="center" width="100%" cellpadding="10" cellspacing="0" style="max-width: 900px; font-family: Arial, sans-serif; color: #222;">
+<div align="center" style="background-color:#0A1128; border-radius: 16px; padding: 35px; max-width: 950px; margin:auto; box-shadow: 0 0 25px rgba(59,130,246,0.3);">
+
+<table align="center" width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td valign="top" width="33%" align="center" style="border-right: 1px solid #ddd;">
-      <h3 style="margin-bottom: 16px; color: #0078d7;">Language & Programming</h3>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-      </a>
-      <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="48" height="48" alt="Go" />
-      </a>
+    <td align="center" valign="top" width="33%">
+      <h3 style="color:#3B82F6;">🧩 Language & Programming</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" height="60" />
     </td>
-    <td valign="top" width="33%" align="center" style="border-right: 1px solid #ddd;">
-      <h3 style="margin-bottom: 16px; color: #e535ab;">Frontend</h3>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" />
-      </a>
-      <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="NextJs" style="margin-left: 24px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="NextJs" />
-      </a>
+    <td align="center" valign="top" width="33%">
+      <h3 style="color:#3B82F6;">🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="60" />
     </td>
-    <td valign="top" width="33%" align="center">
-      <h3 style="margin-bottom: 16px; color: #00aaff;">Runtime & Framework</h3>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express" style="margin-left: 12px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" />
-      </a>
-      <a href="https://bun.sh/" target="_blank" rel="noreferrer" title="Bun" style="margin-left: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="48" height="48" alt="Bun" />
-      </a>
-      <a href="https://elysiajs.com/" target="_blank" rel="noreferrer" title="Elysia">
-        <img src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg" width="48" height="48" alt="Elysia" />
-      </a>
+    <td align="center" valign="top" width="33%">
+      <h3 style="color:#3B82F6;">⚙️ Backend & Runtime</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" height="60" />
+      <img src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg" width="48" alt="Elysia" style="margin-left:8px;"/>
     </td>
   </tr>
-
   <tr>
-    <td valign="top" width="33%" align="center" style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; padding-top: 24px;">
-      <h3 style="margin-bottom: 16px; color: #ff6f61;">Database</h3>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL" style="margin-left: 24px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
+    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
+      <h3 style="color:#3B82F6;">🗄️ Database</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="60" />
     </td>
-    <td valign="top" width="33%" align="center" style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; padding-top: 24px;">
-      <h3 style="margin-bottom: 16px; color: #7952b3;">UI & Design</h3>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap" style="margin-left: 16px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma" style="margin-left: 16px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" />
-      </a>
+    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
+      <h3 style="color:#3B82F6;">🎭 Design & UI</h3>
+      <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind&theme=dark" height="60" />
     </td>
-    <td valign="top" width="33%" align="center" style="border-top: 1px solid #ddd; padding-top: 24px;">
-      <h3 style="margin-bottom: 16px; color: #f0ad4e;">Development Tools & Cloud</h3>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" />
-      </a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code" style="margin-left: 16px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud" style="margin-left: 16px;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
+    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
+      <h3 style="color:#3B82F6;">☁️ Tools & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,gcp,docker&theme=dark" height="60" />
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h2 align="center">🧠 About Me</h2>
 
-<p align="center" style="margin-top: 15px;">
-  <a href="https://github.com/6531503060-nipeerawut" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&langs_count=5&title_color=00DFD8&text_color=888888&icon_color=00DFD8&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+<p align="center" style="max-width:750px; margin:auto; color:#CBD5E1; line-height:1.6;">
+  🌟 <strong>Full-stack developer</strong> who loves solving real-world problems.<br/>
+  🔭 Exploring <strong>Cloud Computing</strong> and <strong>AI-driven Web Systems</strong>.<br/>
+  ⚡ Open to collaboration, learning, and creating meaningful digital products.<br/><br/>
+
+  📫 <strong>Contact:</strong> <em>peerawutnipakornpan@gmail.com</em><br/>
+  🔗 <strong>GitHub:</strong> <em>github.com/6531503060-nipeerawut</em><br/>
+  💼 <strong>LinkedIn:</strong> <em>linkedin.com/in/peerawut-nipakornpan</em>
+</p>
+
+---
+
+<h2 align="center">
+  📊 <span style="background: linear-gradient(90deg, #3B82F6, #2563EB); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=6531503060-nipeerawut&theme=blueberry_duo&hide_border=true" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true" width="46%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/6531503060-nipeerawut" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&count_private=true&title_color=00DFD8&text_color=888888&icon_color=00DFD8&bg_color=0f172a&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6531503060-nipeerawut&theme=github_dark" width="46%" />
 </p>
+
+---
+
+<h2 align="center">💫 Quote</h2>
+
+<p align="center" style="font-size:1.15em; color:#93C5FD;">
+  <em>"Build things that matter, and write code that lasts."</em><br/><br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
+---
+
+<h3 align="center" style="color:#60A5FA;">
+  🌟 Thanks for visiting — Let's build something amazing together! 🌟
+</h3>
