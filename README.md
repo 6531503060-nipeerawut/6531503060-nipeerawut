@@ -59,20 +59,6 @@
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
-
-<p align="center" style="max-width:750px; margin:auto; color:#CBD5E1; line-height:1.6;">
-  🌟 <strong>Full-stack developer</strong> who loves solving real-world problems.<br/>
-  🔭 Exploring <strong>Cloud Computing</strong> and <strong>AI-driven Web Systems</strong>.<br/>
-  ⚡ Open to collaboration, learning, and creating meaningful digital products.<br/><br/>
-
-  📫 <strong>Contact:</strong> <em>peerawutnipakornpan@gmail.com</em><br/>
-  🔗 <strong>GitHub:</strong> <em>github.com/6531503060-nipeerawut</em><br/>
-  💼 <strong>LinkedIn:</strong> <em>linkedin.com/in/peerawut-nipakornpan</em>
-</p>
-
----
-
 <h2 align="center">
   📊 <span style="background: linear-gradient(90deg, #3B82F6, #2563EB); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span>
 </h2>
