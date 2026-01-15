@@ -59,18 +59,47 @@
 
 ---
 
+<!-- ===================== -->
+<!-- 📊 GitHub Analytics -->
+<!-- ===================== -->
+
 <h2 align="center">
-  📊 <span style="background: linear-gradient(90deg, #3B82F6, #2563EB); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span>
+  📊 
+  <span style="
+    background: linear-gradient(90deg, #3B82F6, #2563EB);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    GitHub Analytics
+  </span>
 </h2>
 
+<!-- 🔥 Streak + Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=6531503060-nipeerawut&theme=blueberry_duo&hide_border=true" width="46%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true" width="46%"/>
+  <img
+    src="https://streak-stats.demolab.com?user=6531503060-nipeerawut&theme=blueberry_duo&hide_border=true"
+    width="46%"
+    alt="GitHub Streak Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="46%"
+    alt="GitHub Stats"
+  />
 </p>
 
+<!-- 📚 Languages + Profile Summary -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6531503060-nipeerawut&theme=github_dark" width="46%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="46%"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6531503060-nipeerawut&theme=github_dark"
+    width="46%"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 ---
