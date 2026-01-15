@@ -88,26 +88,30 @@
   📊 <span style="color:#3B82F6;">GitHub Analytics</span>
 </h2>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=6531503060-nipeerawut&theme=blueberry_duo&hide_border=true"
+    src="https://streak-stats.demolab.com?user=6531503060-nipeerawut&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true"
     width="60%"
   />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true"
     width="60%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    width="60%"
-  />
-</p>
 
 ---
 
