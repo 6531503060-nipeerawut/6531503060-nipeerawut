@@ -33,17 +33,42 @@
       <h3 style="color:#3B82F6;">🎨 Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="60" />
     </td>
-    <td align="center" valign="top" width="33%">
-      <h3 style="color:#3B82F6;">⚙️ Backend & Runtime</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" height="60" />
-      <img src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg" width="48" alt="Elysia" style="margin-left:8px;"/>
-    </td>
+<td align="center" valign="top" width="33%">
+  <h3 style="color:#3B82F6;">⚙️ Backend & Runtime</h3>
+
+  <!-- Row 1 -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="56" />
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" height="56" />
+    <img src="https://skillicons.dev/icons?i=bun&theme=dark" height="56" />
+    <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="56" />
+  </p>
+
+  <!-- Row 2 -->
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg"
+      height="52"
+      style="background:#1f2937; border:1px solid #374151; border-radius:8px; padding:6px;"
+    />
+    <img
+      src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg"
+      height="52"
+      style="background:#1f2937; border:1px solid #374151; border-radius:8px; padding:6px; margin-left:8px;"
+    />
+  </p>
+</td>
+
   </tr>
   <tr>
     <td align="center" valign="top" width="33%" style="padding-top: 30px;">
-      <h3 style="color:#3B82F6;">🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="60" />
-    </td>
+  <h3 style="color:#3B82F6;">🗄️ Database</h3>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="60" />
+  </p>
+</td>
     <td align="center" valign="top" width="33%" style="padding-top: 30px;">
       <h3 style="color:#3B82F6;">🎭 Design & UI</h3>
       <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind&theme=dark" height="60" />
