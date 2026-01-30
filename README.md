@@ -45,33 +45,32 @@
 
 <h2 align="center">🚀 Tech Stack & Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" height="55" />
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,bootstrap,tailwind&theme=dark" height="55" />
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" height="55" />
+
+### ⚙️ Backend & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,gcp&theme=dark" height="55" />
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp&theme=dark" />
 </p>
 
 <hr/>
-
-<h2 align="center">📌 Highlights</h2>
-
-<ul>
-  <li>✅ Clean Architecture / Hexagonal-friendly mindset</li>
-  <li>✅ Backend APIs (Node.js / Go / Java) + Authentication (JWT / bcrypt)</li>
-  <li>✅ Database design (MySQL / Postgres) + REST patterns</li>
-  <li>✅ Frontend with Next.js for modern UI delivery</li>
-</ul>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
