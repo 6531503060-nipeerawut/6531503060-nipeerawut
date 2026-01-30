@@ -1,115 +1,136 @@
-<!-- 🌌 OFF PORTFOLIO README - BLUE THEME -->
+<!-- =========================
+     OFF | README (Blue Theme)
+     ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=I'm+Peerawut+Nipakornpan;Off+%7C+Software+Engineering;Backend+Developer;Dream+Builder" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Peerawut+Nipakornpan;Off+%7C+Software+Engineering;Backend+Developer;Dream+Builder"
+    alt="Typing Animation"
+  />
 </h1>
 
 <p align="center">
-  <em>🎓 Fourth-year <strong>Software Engineering</strong> student at <strong>Mae Fah Luang University</strong><br/>
-  Passionate about creating <strong>impactful</strong> and <strong>innovative</strong> software solutions.</em>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:60A5FA&height=160&section=header&text=Off%20Portfolio&fontSize=42&fontColor=ffffff&animation=twinkling"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌏_Bangkok-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_MFU_Software_Engineering-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Fueled-334155?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">
-  🚀 <span style="background: linear-gradient(90deg, #3B82F6, #2563EB); -webkit-background-clip: text; color: transparent;">Tech Stack & Tools</span>
-</h2>
-
-<div align="center" style="background-color:#0A1128; border-radius: 16px; padding: 35px; max-width: 950px; margin:auto; box-shadow: 0 0 25px rgba(59,130,246,0.3);">
-
-<table align="center" width="100%" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h3 style="color:#3B82F6;">🧩 Language & Programming</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" height="60" />
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3 style="color:#3B82F6;">🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="60" />
-    </td>
-<td align="center" valign="top" width="33%">
-  <h3 style="color:#3B82F6;">⚙️ Backend & Runtime</h3>
-
-  <!-- Row 1 -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="56" />
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" height="56" />
-    <img src="https://skillicons.dev/icons?i=bun&theme=dark" height="56" />
-    <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="56" />
-  </p>
-
-  <!-- Row 2 -->
-  <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/elysiajs/documentation/main/docs/public/assets/elysia.svg"
-      height="52"
-      style="background:#1f2937; border:1px solid #374151; border-radius:8px; padding:6px;"
-    />
-    <img
-      src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg"
-      height="52"
-      style="background:#1f2937; border:1px solid #374151; border-radius:8px; padding:6px; margin-left:8px;"
-    />
-  </p>
-</td>
-
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
-  <h3 style="color:#3B82F6;">🗄️ Database</h3>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="60" />
-  </p>
-</td>
-    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
-      <h3 style="color:#3B82F6;">🎭 Design & UI</h3>
-      <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind&theme=dark" height="60" />
-    </td>
-    <td align="center" valign="top" width="33%" style="padding-top: 30px;">
-      <h3 style="color:#3B82F6;">☁️ Tools & Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,gcp,docker&theme=dark" height="60" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">
-  📊 <span style="color:#3B82F6;">GitHub Analytics</span>
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6531503060-nipeerawut&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <em>
+    🎓 Fourth-year <b>Software Engineering</b> student at <b>Mae Fah Luang University</b><br/>
+    Building <b>impactful</b> and <b>innovative</b> software — with clean architecture & scalable backend.
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Bangkok-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFU%20Software%20Engineering-1E3A8A?style=for-the-badge&logo=graduationcap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee%20Fueled-334155?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/6531503060-nipeerawut">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
+<hr/>
+
+<h2 align="center">🚀 Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,bootstrap,tailwind&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,gcp&theme=dark" height="55" />
+</p>
+
+<hr/>
+
+<h2 align="center">📌 Highlights</h2>
+
+<ul>
+  <li>✅ Clean Architecture / Hexagonal-friendly mindset</li>
+  <li>✅ Backend APIs (Node.js / Go / Java) + Authentication (JWT / bcrypt)</li>
+  <li>✅ Database design (MySQL / Postgres) + REST patterns</li>
+  <li>✅ Frontend with Next.js for modern UI delivery</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<!-- 1) Streak (มักเสถียร) -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=6531503060-nipeerawut&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- 2) Stats + Top Langs -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- 3) Activity Graph (กราฟกิจกรรม) -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=6531503060-nipeerawut&theme=tokyo-night&hide_border=true"
+    alt="Activity Graph"
+  />
+</p>
+
+<!-- 4) Trophies -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=6531503060-nipeerawut&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="Trophies"
+  />
+</p>
+
+<hr/>
 
 <h2 align="center">💫 Fun Fact</h2>
 
-<p align="center" style="font-size:1.15em; color:#93C5FD;">
-  <em>"Build things that matter, and write code that lasts."</em><br/><br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<p align="center">
+  <i>"Build things that matter, and write code that lasts."</i>
 </p>
 
----
+<p align="center">
+  <!-- GIF สำรอง: ถ้า giphy มีปัญหา ใช้ gif จาก github เองจะนิ่งกว่า -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
+</p>
 
-<h3 align="center" style="color:#60A5FA;">
-  🌟 Thanks for visiting — Let's build something amazing together! 🌟
-</h3>
+<hr/>
+
+<h3 align="center">🌟 Thanks for visiting — Let's build something amazing together! 🌟</h3>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
