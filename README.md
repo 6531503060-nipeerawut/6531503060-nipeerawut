@@ -45,30 +45,37 @@
 
 <h2 align="center">🚀 Tech Stack & Tools</h2>
 
-### 🧩 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧩 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+    </td>
+  </tr>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
-</p>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Backend & Runtime</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🗄️ Database</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+    </td>
+  </tr>
 
-### ⚙️ Backend & Runtime
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" />
-</p>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>☁️ DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gcp&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp&theme=dark" />
-</p>
 
 <hr/>
 
@@ -80,10 +87,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
-    width="70%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6531503060-nipeerawut&theme=tokyonight" width="49%"/>
 </p>
 
 <p align="center">
