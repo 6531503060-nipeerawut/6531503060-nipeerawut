@@ -80,7 +80,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6531503060-nipeerawut&theme=tokyonight" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    width="70%"
+  />
 </p>
 
 <p align="center">
