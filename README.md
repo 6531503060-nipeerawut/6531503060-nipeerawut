@@ -74,18 +74,12 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Contribution Graph ของจริงจาก GitHub -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/3B82F6/6531503060-nipeerawut" alt="GitHub Contributions"/>
-</p>
-
 <!-- Profile Summary Cards (เสถียรมาก) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6531503060-nipeerawut&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=6531503060-nipeerawut&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6531503060-nipeerawut&theme=tokyonight" width="48%"/>
 </p>
 
