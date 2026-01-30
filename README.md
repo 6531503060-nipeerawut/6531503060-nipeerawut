@@ -45,6 +45,34 @@
 
 <h2 align="center">🚀 Tech Stack & Tools</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,bootstrap,tailwind&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,spring&theme=dark" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,gcp&theme=dark" height="55" />
+</p>
+
+<hr/>
+
+<h2 align="center">📌 Highlights</h2>
+
+<ul>
+  <li>✅ Clean Architecture / Hexagonal-friendly mindset</li>
+  <li>✅ Backend APIs (Node.js / Go / Java) + Authentication (JWT / bcrypt)</li>
+  <li>✅ Database design (MySQL / Postgres) + REST patterns</li>
+  <li>✅ Frontend with Next.js for modern UI delivery</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <!-- Contribution Graph ของจริงจาก GitHub -->
@@ -65,59 +93,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6531503060-nipeerawut&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6531503060-nipeerawut&theme=tokyonight&utcOffset=7" width="48%"/>
-</p>
-
-<hr/>
-
-<h2 align="center">📌 Highlights</h2>
-
-<ul>
-  <li>✅ Clean Architecture / Hexagonal-friendly mindset</li>
-  <li>✅ Backend APIs (Node.js / Go / Java) + Authentication (JWT / bcrypt)</li>
-  <li>✅ Database design (MySQL / Postgres) + REST patterns</li>
-  <li>✅ Frontend with Next.js for modern UI delivery</li>
-</ul>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<!-- 1) Streak (มักเสถียร) -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=6531503060-nipeerawut&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- 2) Stats + Top Langs -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=6531503060-nipeerawut&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6531503060-nipeerawut&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
-
-<!-- 3) Activity Graph (กราฟกิจกรรม) -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=6531503060-nipeerawut&theme=tokyo-night&hide_border=true"
-    alt="Activity Graph"
-  />
-</p>
-
-<!-- 4) Trophies -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=6531503060-nipeerawut&theme=tokyonight&no-frame=true&row=1&column=7"
-    alt="Trophies"
-  />
 </p>
 
 <hr/>
