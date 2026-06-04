@@ -53,7 +53,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,figma&theme=dark" />
     </td>
   </tr>
 
@@ -64,7 +64,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql&theme=dark" />
     </td>
   </tr>
 
@@ -75,7 +75,6 @@
     </td>
   </tr>
 </table>
-
 
 <hr/>
 
