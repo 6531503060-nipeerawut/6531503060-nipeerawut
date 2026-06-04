@@ -18,8 +18,8 @@
 
 <p align="center">
   <em>
-    🎓 Fourth-year <b>Software Engineering</b> student at <b>Mae Fah Luang University</b><br/>
-    Building <b>impactful</b> and <b>innovative</b> software — with clean architecture & scalable backend.
+    🎓 <b>Software Engineering Graduate</b> from <b>Mae Fah Luang University</b><br/>
+    Passionate about developing practical, user-focused, and scalable software solutions that create real-world impact.
   </em>
 </p>
 
