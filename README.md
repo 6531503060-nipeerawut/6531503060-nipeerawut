@@ -64,7 +64,13 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+        alt="SQL Server"
+        width="48"
+        height="48"
+      />
     </td>
   </tr>
 
