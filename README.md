@@ -84,24 +84,6 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<!-- Profile Summary Cards (เสถียรมาก) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6531503060-nipeerawut&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6531503060-nipeerawut&theme=tokyonight" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6531503060-nipeerawut&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6531503060-nipeerawut&theme=tokyonight&utcOffset=7" width="48%"/>
-</p>
-
-<hr/>
-
 <h2 align="center">💫 Fun Fact</h2>
 
 <p align="center">
